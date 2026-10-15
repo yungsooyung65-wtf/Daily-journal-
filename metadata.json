@@ -1,0 +1,6 @@
+{
+  "name": "Daily Task Journal",
+  "description": "A personal daily task journal with pastel aesthetic, task management, study tracker, water intake, mood logger, reflections, and offline backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
